@@ -1,6 +1,6 @@
 # NeuraBot
 
-NeuraBot is an AI-powered chatbot application similar to ChatGPT, leveraging the Gemini API to provide intelligent responses based on user prompts. Built with React.js, NeuraBot offers a seamless and interactive user experience for engaging in natural language conversations.
+NeuraBot is an AI-powered chatbot application similar to Gemini, leveraging the Gemini API to provide intelligent responses based on user prompts. Built with React.js, NeuraBot offers a seamless and interactive user experience for engaging in natural language conversations.
 
 ## Features
 
